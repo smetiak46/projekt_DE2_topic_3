@@ -8,7 +8,7 @@
     <li>Kancian - Akcelerátor</li>
     <li>Nádvorník - GPS modul NEO-6M</li>
 </ol>
-<h2>MPU5060</h2>
+<h2>MPU6050</h2>
 <p>senzor zodpovedný za meranie zrýchlenia a uhlu naklonenia v troch rozmeroch</p>
 <img src="fotky/MPU6050.png">
 <h3>Vstúpy/Výstupy</h3>
