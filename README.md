@@ -4,9 +4,9 @@
 <h2>Rozdelenie úloh</h2>
 <p>realizácia zapojenia a program pre zobrazenie výstupných hodnôt jednotlivých modulov</p>
 <ol></ol>
-<li>Jozek - Gyroskop</li>
-<li>Kancian - Akcelerátor</li>
-<li>Nádvorník - GPS modul NEO-6M</li>
+    <li>Jozek - Gyroskop</li>
+    <li>Kancian - Akcelerátor</li>
+    <li>Nádvorník - GPS modul NEO-6M</li>
 </ol>
 <h2>MPU5060</h2>
 <p>senzor zodpovedný za meranie zrýchlenia a uhlu naklonenia v troch rozmeroch</p>
@@ -34,15 +34,19 @@
 <h3>Vstúpy/Výstupy</h3>
 <tr>
     <th>IN</th>
-    <th>GND/th>
-    <th>IN</th>
-    <th>OUT</th>
+    <th>3v3</th>
   </tr>
   <tr>
-    <th>3v3</th>
+    <th>GND</th>
     <th>GND/th>
-    <th>Rx</th>
-    <th>Tx</th>
+  </tr>
+  <tr>
+    <th>IN</th>
+    <th>Rx/th>
+  </tr>
+  <tr>
+    <th>OUT</th>
+    <th>Tx/th>
   </tr>
   <h2>OLED</h2>
   <p>OLED displej veĽkosti 128x64</p>
