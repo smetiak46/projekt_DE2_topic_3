@@ -12,14 +12,18 @@
 <table>
 <tr>
     <th>IN</th>
-    <th>GND</th>
-    <th>OUT</th>
-    <th>OUT</th>
+    <th>3v3</th>
   </tr>
   <tr>
-    <th>3v3</th>
     <th>GND</th>
+    <th>GND</th>
+  </tr>
+  <tr>
+    <th>OUT</th>
     <th>SCL</th>
+  </tr>
+   <tr>
+    <th>OUT</th>
     <th>SDA</th>
   </tr>
 </table>
