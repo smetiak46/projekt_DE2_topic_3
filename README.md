@@ -12,13 +12,13 @@
 <table>
 <tr>
     <th>IN</th>
-    <th>GND/th>
+    <th>GND</th>
     <th>OUT</th>
     <th>OUT</th>
   </tr>
   <tr>
     <th>3v3</th>
-    <th>GND/th>
+    <th>GND</th>
     <th>SCL</th>
     <th>SDA</th>
   </tr>
