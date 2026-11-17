@@ -32,6 +32,7 @@
 <h2>NEO-6M</h2>
 <p>NEO-6M je jednoduchý GPS príjmač</p>
 <h3>Vstúpy/Výstupy</h3>
+<table>
 <tr>
     <th>IN</th>
     <th>3v3</th>
@@ -48,66 +49,91 @@
     <th>OUT</th>
     <th>Tx/th>
   </tr>
+</table>
   <h2>OLED</h2>
   <p>OLED displej veĽkosti 128x64</p>
   <h3>Vstúpy/Výstupy</h3>
+<table>
 <tr>
     <th>IN</th>
-    <th>GND/th>
-    <th>OUT</th>
-    <th>OUT</th>
+    <th>3v3</th>
   </tr>
   <tr>
-    <th>3v3</th>
-    <th>GND/th>
+    <th>GND</th>
+    <th>GND</th>
+  </tr>
+  <tr>
+    <th>OUT</th>
     <th>SCL</th>
+  </tr>
+   <tr>
+    <th>OUT</th>
     <th>SDA</th>
   </tr>
+</table>
   <h2>Akcelerátor</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
   <p>*Tabuľka pre zapojenie modulu na mikropočítać*</p>
-  <tr>
-    <th>IN</th>
-    <th>GND/th>
-    <th>IN</th>
-    <th>OUT</th>
-  </tr>
-  <tr>
+<table>
+<tr>
     <th>3v3</th>
-    <th>GND/th>
-    <th>Rx</th>
-    <th>Tx</th>
+    <th>PIN36</th>
   </tr>
+  <tr>
+    <th>GND</th>
+    <th>PIN3</th>
+  </tr>
+  <tr>
+    <th>SCL</th>
+    <th>GP3</th>
+  </tr>
+   <tr>
+    <th>SDA</th>
+    <th>GP2</th>
+  </tr>
+</table>
   <h2>Gyroskop</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
   <p>*Tabuľka pre zapojenie modulu na mikropočítać*</p>
-  <tr>
+<table>
+<tr>
     <th>IN</th>
-    <th>GND/th>
-    <th>IN</th>
-    <th>OUT</th>
-  </tr>
-  <tr>
     <th>3v3</th>
-    <th>GND/th>
-    <th>Rx</th>
-    <th>Tx</th>
   </tr>
+  <tr>
+    <th>GND</th>
+    <th>GND</th>
+  </tr>
+  <tr>
+    <th>OUT</th>
+    <th>SCL</th>
+  </tr>
+   <tr>
+    <th>OUT</th>
+    <th>SDA</th>
+  </tr>
+</table>
   <h2>GPS modul NEO-6M</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
   <p>*Tabuľka pre zapojenie modulu na mikropočítać*</p>
-  <tr>
+<table>
+<tr>
     <th>IN</th>
-    <th>GND/th>
-    <th>IN</th>
-    <th>OUT</th>
-  </tr>
-  <tr>
     <th>3v3</th>
-    <th>GND/th>
-    <th>Rx</th>
-    <th>Tx</th>
   </tr>
+  <tr>
+    <th>GND</th>
+    <th>GND</th>
+  </tr>
+  <tr>
+    <th>OUT</th>
+    <th>SCL</th>
+  </tr>
+   <tr>
+    <th>OUT</th>
+    <th>SDA</th>
+  </tr>
+</table>
   <h1>2.týždeň</h1>
   <h2>Rozdelenie úloh</h2>
   <h2>Spojenie individualných modulov</h2>
