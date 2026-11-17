@@ -9,6 +9,7 @@
 <h2>MPU5060</h2>
 <p>senzor zodpovedný za meranie zrýchlenia a uhlu naklonenia v troch rozmeroch</p>
 <h3>Vstúpy/Výstupy</h3>
+<table>
 <tr>
     <th>IN</th>
     <th>GND/th>
@@ -21,6 +22,7 @@
     <th>SCL</th>
     <th>SDA</th>
   </tr>
+</table>
 <h2>NEO-6M</h2>
 <p>NEO-6M je jednoduchý GPS príjmač</p>
 <h3>Vstúpy/Výstupy</h3>
