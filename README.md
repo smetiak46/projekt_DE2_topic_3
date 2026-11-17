@@ -3,9 +3,9 @@
 <h1>1.týždeň</h1>
 <h2>Rozdelenie úloh</h2>
 <p>realizácia zapojenia a program pre zobrazenie výstupných hodnôt jednotlivých modulov</p>
-<ul>Jozek - Gyroskop</ul>
-<ul>Kancian - Akcelerátor</ul>
-<ul>Nádvorník - GPS modul NEO-6M</ul>
+<ol>Jozek - Gyroskop</ol>
+<ol>Kancian - Akcelerátor</ol>
+<ol>Nádvorník - GPS modul NEO-6M</ol>
 <h2>MPU5060</h2>
 <p>senzor zodpovedný za meranie zrýchlenia a uhlu naklonenia v troch rozmeroch</p>
 <h3>Vstúpy/Výstupy</h3>
