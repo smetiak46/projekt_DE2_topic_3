@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <th>OUT</th>
-    <th>Tx/th>
+    <th>Tx</th>
   </tr>
 </table>
   <h2>OLED</h2>
