@@ -10,7 +10,7 @@
 </ol>
 <h2>MPU5060</h2>
 <p>senzor zodpovedný za meranie zrýchlenia a uhlu naklonenia v troch rozmeroch</p>
-<img src="fotky/MPU5060.png">
+<img src="fotky/MPU6050.png">
 <h3>Vstúpy/Výstupy</h3>
 <table>
 <tr>
