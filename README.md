@@ -1,3 +1,3 @@
-# projekt_DE2_topic_3
-projekt na DE2
-n
+# GPS and IMU sensor unit
+Rozdelenie
+
