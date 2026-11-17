@@ -1,8 +1,8 @@
 # GPS and IMU sensor unit
 <h1>Moduly</h1>
 <h1>1.týždeň</h1>
+<p>rodelenie úloh kontrola hardvéru</p>
 <h2>Rozdelenie úloh</h2>
-<p>realizácia zapojenia a program pre zobrazenie výstupných hodnôt jednotlivých modulov</p>
 <ol></ol>
     <li>Jozek - Gyroskop</li>
     <li>Kancian - Akcelerátor</li>
@@ -138,6 +138,7 @@
   </tr>
 </table>
   <h1>2.týždeň</h1>
+  <p>realizácia zapojenia a program pre zobrazenie výstupných hodnôt jednotlivých modulov</p>
   <h2>Rozdelenie úloh</h2>
   <h2>Spojenie individualných modulov</h2>
   <p>*Diagram kompletného zapojenia*</p>
