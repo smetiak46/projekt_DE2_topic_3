@@ -39,11 +39,11 @@
   </tr>
   <tr>
     <th>GND</th>
-    <th>GND/th>
+    <th>GND</th>
   </tr>
   <tr>
     <th>IN</th>
-    <th>Rx/th>
+    <th>Rx</th>
   </tr>
   <tr>
     <th>OUT</th>
