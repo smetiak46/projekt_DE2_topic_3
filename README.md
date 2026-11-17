@@ -78,7 +78,7 @@
   <img src="fotky/ACC_diag.png">
   
  
-  <p>*Tabuľka pre zapojenie modulu na mikropočítać*</p>
+  <p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
 <table>
 <tr>
     <th>3v3</th>
@@ -99,7 +99,7 @@
 </table>
   <h2>Gyroskop</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-  <p>*Tabuľka pre zapojenie modulu na mikropočítać*</p>
+  <p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
 <table>
 <tr>
     <th>IN</th>
@@ -120,7 +120,7 @@
 </table>
   <h2>GPS modul NEO-6M</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-  <p>*Tabuľka pre zapojenie modulu na mikropočítać*</p>
+  <p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
 <table>
 <tr>
     <th>IN</th>
