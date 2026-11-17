@@ -73,7 +73,7 @@
 </table>
   <h2>Akcelerátor</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-  <a href ="fotky/ACC_diag.png"><a/>
+  <a href ="projekt_DE2_topic_3/fotky/ACC_diag.png"><a/>
   <p>*Tabuľka pre zapojenie modulu na mikropočítać*</p>
 <table>
 <tr>
