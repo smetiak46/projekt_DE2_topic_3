@@ -10,6 +10,7 @@
 </ol>
 <h2>MPU5060</h2>
 <p>senzor zodpovedný za meranie zrýchlenia a uhlu naklonenia v troch rozmeroch</p>
+<img src="fotky/MPU5060.png">
 <h3>Vstúpy/Výstupy</h3>
 <table>
 <tr>
@@ -31,6 +32,7 @@
 </table>
 <h2>NEO-6M</h2>
 <p>NEO-6M je jednoduchý GPS príjmač</p>
+<img src="fotky/NEO-6M.png">
 <h3>Vstúpy/Výstupy</h3>
 <table>
 <tr>
