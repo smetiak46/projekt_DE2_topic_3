@@ -99,7 +99,7 @@
 </table>
   <h2>Gyroskop</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-  <p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
+  <p>Zapojenie pinov</p>
 <table>
 <tr>
     <th>3v3</th>
@@ -123,7 +123,7 @@
 
   <h2>GPS modul NEO-6M</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-  <p>Zapojenie pinov</p>
+  <p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
 <table>
 <tr>
     <th>IN</th>
