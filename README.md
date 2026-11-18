@@ -118,12 +118,12 @@
     <th>GP2</th>
   </tr>
 </table>
-- gyroskop spolu s akcelerometrom tvoria modul MPU6050, preto budú mať rovnaké zapojenie pinov /n
-- gyroskop meria uhlovú rýchlosť v °/S priestorových osí (X,Y,Z)
+<p> - gyroskop spolu s akcelerometrom tvoria modul MPU6050, preto budú mať rovnaké zapojenie pinov </p>
+<p> - gyroskop meria uhlovú rýchlosť v °/S priestorových osí (X,Y,Z) </p>
 
   <h2>GPS modul NEO-6M</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-  <p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
+  <p>Zapojenie pinov</p>
 <table>
 <tr>
     <th>IN</th>
