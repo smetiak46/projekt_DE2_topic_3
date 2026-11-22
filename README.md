@@ -146,7 +146,7 @@ a zobrazovať namerané hodnoty na OLED displeji
 <h3> MPU6050 </h3>
 
 <p> Zapojenie pre testovanie </p>
-<img src="fotky/ACC_diag.png">
+<img src="fotky/mpu_test.png">
 
 <table>
 <tr>
@@ -170,7 +170,7 @@ a zobrazovať namerané hodnoty na OLED displeji
 <h3> Gyroskop </h3>
 
 <p> Zapojenie pre testovanie </p>
-<img src="fotky/ACC_diag.png">
+<img src="fotky/mpu_test.png">
 
 <table>
 <tr>
