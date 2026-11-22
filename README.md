@@ -167,29 +167,8 @@ a zobrazovať namerané hodnoty na OLED displeji
   </tr>
 </table>
 
+<h3> Akcelerometer </h3>
 <h3> Gyroskop </h3>
-
-<p> Zapojenie pre testovanie </p>
-<img src="fotky/mpu_test.png">
-
-<table>
-<tr>
-    <th>3v3</th>
-    <th>PIN36</th>
-  </tr>
-  <tr>
-    <th>GND</th>
-    <th>GND</th>
-  </tr>
-  <tr>
-    <th>SCL</th>
-    <th>GP4</th>
-  </tr>
-   <tr>
-    <th>SDA</th>
-    <th>GP5</th>
-  </tr>
-</table>
 
 <h3> GPS modul NEO-6M </h3>
 <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
