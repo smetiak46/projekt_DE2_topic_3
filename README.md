@@ -22,6 +22,14 @@ a zobrazovať namerané hodnoty na OLED displeji
     <li>zobrazenie výsledných údajov na OLED displeji.</li>
 </ul>
 
+<h1> Použitý software </h1>
+
+<ul>
+    <li> Programovací jazyk - MicroPython </li>
+    <li> Použité knižnice -  </li>
+    <li> Programovacie prostredie - Thonny, VSC </li>
+</ul>
+
 <h1> Použité moduly </h1>
 
 <h2>MPU6050</h2>
@@ -124,7 +132,7 @@ a zobrazovať namerané hodnoty na OLED displeji
 
 <h3> Blokové schéma - koncept </h3>
 
-<img src="fotky/block_schematic.png">
+<img src="fotky/block_schem.png">
 
 <h3> Schéma zapojenia - koncept </h3>
 
