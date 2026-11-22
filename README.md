@@ -33,7 +33,7 @@ a zobrazovať namerané hodnoty na OLED displeji
 
 <img src="fotky/MPU6050.png">
 
-<h3>Vstúpy/Výstupy</h3>
+<h3> Použité vstupy/výstupy </h3>
 <table>
 <tr>
     <th>IN</th>
@@ -62,7 +62,7 @@ a zobrazovať namerané hodnoty na OLED displeji
 
 <img src="fotky/NEO-6M.png">
 
-<h3>Vstúpy/Výstupy</h3>
+<h3> Použité vstupy/výstupy </h3>
 <table>
 <tr>
     <th>IN</th>
@@ -89,7 +89,7 @@ a zobrazovať namerané hodnoty na OLED displeji
     <li> zobrazovanie údajov získaných z jednotlivých modulov </li>
 </ul> 
   
-  <h3>Vstúpy/Výstupy</h3>
+  <h3> Použité vstupy/výstupy </h3>
 <table>
 <tr>
     <th>IN</th>
@@ -109,14 +109,22 @@ a zobrazovať namerané hodnoty na OLED displeji
   </tr>
 </table>
 
-<h1>1.týždeň</h1>
-<p>rodelenie úloh kontrola hardvéru</p>
-<h2>Rozdelenie úloh</h2>
+<h1> Progres projektu </h1>
+
+<h2> 1.týždeň </h2>
+
+<p> rozdelenie úloh medzi členov tímu, kontrola hardvéru, vytvorenie blokového schéma a schéma zapojenia</p>
+
+<h3> Rozdelenie úloh </h3>
 <ol></ol>
     <li>Jozek - Gyroskop</li>
     <li>Kancian - Akcelerátor</li>
     <li>Nádvorník - GPS modul NEO-6M</li>
 </ol>
+
+<h3> Blokové schéma - koncept </h3>
+
+<img src="fotky/MPU6050.png">
 
   <h2>Akcelerometer</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
