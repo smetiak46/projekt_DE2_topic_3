@@ -45,7 +45,7 @@ a zobrazovať namerané hodnoty na OLED displeji
 <table>
 <tr>
     <th>IN</th>
-    <th>3v3</th>
+    <th>3V3</th>
   </tr>
   <tr>
     <th>GND</th>
@@ -74,7 +74,7 @@ a zobrazovať namerané hodnoty na OLED displeji
 <table>
 <tr>
     <th>IN</th>
-    <th>3v3</th>
+    <th>3V3</th>
   </tr>
   <tr>
     <th>GND</th>
@@ -82,11 +82,11 @@ a zobrazovať namerané hodnoty na OLED displeji
   </tr>
   <tr>
     <th>IN</th>
-    <th>Rx</th>
+    <th>RX</th>
   </tr>
   <tr>
     <th>OUT</th>
-    <th>Tx</th>
+    <th>TX</th>
   </tr>
 </table>
 
@@ -101,7 +101,7 @@ a zobrazovať namerané hodnoty na OLED displeji
 <table>
 <tr>
     <th>IN</th>
-    <th>3v3</th>
+    <th>3V3</th>
   </tr>
   <tr>
     <th>GND</th>
@@ -150,7 +150,7 @@ a zobrazovať namerané hodnoty na OLED displeji
 
 <table>
 <tr>
-    <th>3v3</th>
+    <th>3V3</th>
     <th>PIN36</th>
   </tr>
   <tr>
@@ -167,8 +167,8 @@ a zobrazovať namerané hodnoty na OLED displeji
   </tr>
 </table>
 
-<h3> Akcelerometer </h3>
-<h3> Gyroskop </h3>
+<h4> Akcelerometer </h4>
+<h4> Gyroskop </h4>
 
 <h3> GPS modul NEO-6M </h3>
 <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
