@@ -22,18 +22,17 @@ a zobrazovať namerané hodnoty na OLED displeji
     <li>zobrazenie výsledných údajov na OLED displeji.</li>
 </ul>
 
-<h1>Moduly</h1>
-<h1>1.týždeň</h1>
-<p>rodelenie úloh kontrola hardvéru</p>
-<h2>Rozdelenie úloh</h2>
-<ol></ol>
-    <li>Jozek - Gyroskop</li>
-    <li>Kancian - Akcelerátor</li>
-    <li>Nádvorník - GPS modul NEO-6M</li>
-</ol>
+<h1> Použité moduly </h1>
+
 <h2>MPU6050</h2>
-<p>senzor zodpovedný za meranie zrýchlenia a uhlu naklonenia v troch rozmeroch</p>
+
+<p> 
+Senzor obsahujúci 3-osový gyroskop a 3-osový akcelerometer.
+Senzor zodpovedný za meranie zrýchlenia (Akcelerometer) a uhlovú rýchlosť (Gyroskop) v troch rozmeroch
+</p>
+
 <img src="fotky/MPU6050.png">
+
 <h3>Vstúpy/Výstupy</h3>
 <table>
 <tr>
@@ -53,9 +52,14 @@ a zobrazovať namerané hodnoty na OLED displeji
     <th>SDA</th>
   </tr>
 </table>
+
 <h2>NEO-6M</h2>
-<p>NEO-6M je jednoduchý GPS príjmač</p>
+
+<p> NEO-6M je jednoduchý GPS prijímač, slúži na získavanie údajov o polohe,
+rýchlosti a stave GPS signálu.</p>
+
 <img src="fotky/NEO-6M.png">
+
 <h3>Vstúpy/Výstupy</h3>
 <table>
 <tr>
@@ -75,6 +79,17 @@ a zobrazovať namerané hodnoty na OLED displeji
     <th>Tx</th>
   </tr>
 </table>
+
+<h1>1.týždeň</h1>
+<p>rodelenie úloh kontrola hardvéru</p>
+<h2>Rozdelenie úloh</h2>
+<ol></ol>
+    <li>Jozek - Gyroskop</li>
+    <li>Kancian - Akcelerátor</li>
+    <li>Nádvorník - GPS modul NEO-6M</li>
+</ol>
+
+
   <h2>OLED</h2>
   <p>OLED displej veĽkosti 128x64</p>
   <h3>Vstúpy/Výstupy</h3>
