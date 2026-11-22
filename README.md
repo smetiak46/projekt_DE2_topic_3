@@ -124,7 +124,11 @@ a zobrazovať namerané hodnoty na OLED displeji
 
 <h3> Blokové schéma - koncept </h3>
 
-<img src="fotky/MPU6050.png">
+<img src="fotky/block_schematic.png">
+
+<h3> Schéma zapojenia - koncept </h3>
+
+<img src="fotky/schema_zapojenia_koncept.png">
 
   <h2>Akcelerometer</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
