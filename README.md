@@ -1,4 +1,27 @@
 # GPS and IMU sensor unit
+
+<h1>Úvod</h1>
+
+<p>
+Projekt GPS and IMU sensor unit je zameraný na vytvorenie senzorovej jednotky
+pomocou mikropočítača Raspberry Pi Pico. Jednotka pozostáva z GPS modulu
+NEO-6M, senzora MPU6050 a OLED displeja s rozlíšením 128x64. Cieľom projektu 
+je získavať údaje o polohe a pohybe zariadenia, spracovať ich pomocou mikropočítača 
+a zobrazovať namerané hodnoty na OLED displeji
+</p>
+
+<h2> Funkcia projektu </h2>
+
+<ul>
+    <li>meranie uhlovej rýchlosti pomocou gyroskopu,</li>
+    <li>meranie zrýchlenia pomocou akcelerometra,</li>
+    <li>získavanie údajov z GPS modulu NEO-6M,</li>
+    <li>zobrazenie GPS fixu a dostupnosti GPS signálu,</li>
+    <li>zobrazenie vybraných GPS údajov, napríklad rýchlosti alebo polohy,</li>
+    <li>zobrazenie hodnôt gyroskopu a akcelerometra,</li>
+    <li>zobrazenie výsledných údajov na OLED displeji.</li>
+</ul>
+
 <h1>Moduly</h1>
 <h1>1.týždeň</h1>
 <p>rodelenie úloh kontrola hardvéru</p>
@@ -73,7 +96,7 @@
     <th>SDA</th>
   </tr>
 </table>
-  <h2>Akcelerátor</h2>
+  <h2>Akcelerometer</h2>
   <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
   <img src="fotky/ACC_diag.png">
   
