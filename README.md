@@ -124,71 +124,76 @@ a zobrazovať namerané hodnoty na OLED displeji
 <p> rozdelenie úloh medzi členov tímu, kontrola hardvéru, vytvorenie blokového schéma a schéma zapojenia</p>
 
 <h3> Rozdelenie úloh </h3>
-<ol></ol>
+<ul>
     <li>Jozek - Gyroskop</li>
     <li>Kancian - Akcelerátor</li>
     <li>Nádvorník - GPS modul NEO-6M</li>
-</ol>
+</ul>
 
 <h3> Blokové schéma - koncept </h3>
-
 <img src="fotky/block_schem.png">
 
 <h3> Schéma zapojenia - koncept </h3>
-
 <img src="fotky/schema_zapojenia_koncept.png">
 
-  <h2>Akcelerometer</h2>
-  <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-  <img src="fotky/ACC_diag.png">
-  
- 
-  <p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
-<table>
-<tr>
-    <th>3v3</th>
-    <th>PIN36</th>
-  </tr>
-  <tr>
-    <th>GND</th>
-    <th>PIN3</th>
-  </tr>
-  <tr>
-    <th>SCL</th>
-    <th>GP3</th>
-  </tr>
-   <tr>
-    <th>SDA</th>
-    <th>GP2</th>
-  </tr>
-</table>
-  <h2>Gyroskop</h2>
-  <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-  <p>Zapojenie pinov</p>
-<table>
-<tr>
-    <th>3v3</th>
-    <th>PIN36</th>
-  </tr>
-  <tr>
-    <th>GND</th>
-    <th>PIN3</th>
-  </tr>
-  <tr>
-    <th>SCL</th>
-    <th>GP3</th>
-  </tr>
-   <tr>
-    <th>SDA</th>
-    <th>GP2</th>
-  </tr>
-</table>
-<p> - gyroskop spolu s akcelerometrom tvoria modul MPU6050, preto budú mať rovnaké zapojenie pinov </p>
-<p> - gyroskop meria uhlovú rýchlosť v °/S priestorových osí (X,Y,Z) </p>
+<h2> 2.týždeň </h2>
 
-  <h2>GPS modul NEO-6M</h2>
-  <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-  <p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
+<ul>
+    <li> vytvorenie classov pre jednotlivé moduly </li>
+    <li> realizácia zapojenia modulu a zobrazenie jeho výstupných hodnôt </li>
+</ul>
+
+<h3> MPU6050 </h3>
+
+<p> Zapojenie pre testovanie </p>
+<img src="fotky/ACC_diag.png">
+
+<table>
+<tr>
+    <th>3v3</th>
+    <th>PIN36</th>
+  </tr>
+  <tr>
+    <th>GND</th>
+    <th>GND</th>
+  </tr>
+  <tr>
+    <th>SCL</th>
+    <th>GP4</th>
+  </tr>
+   <tr>
+    <th>SDA</th>
+    <th>GP5</th>
+  </tr>
+</table>
+
+<h3> Gyroskop </h3>
+
+<p> Zapojenie pre testovanie </p>
+<img src="fotky/ACC_diag.png">
+
+<table>
+<tr>
+    <th>3v3</th>
+    <th>PIN36</th>
+  </tr>
+  <tr>
+    <th>GND</th>
+    <th>GND</th>
+  </tr>
+  <tr>
+    <th>SCL</th>
+    <th>GP4</th>
+  </tr>
+   <tr>
+    <th>SDA</th>
+    <th>GP5</th>
+  </tr>
+</table>
+
+<h3> GPS modul NEO-6M </h3>
+<p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
+<p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
 <table>
 <tr>
     <th>IN</th>
@@ -207,8 +212,5 @@ a zobrazovať namerané hodnoty na OLED displeji
     <th>SDA</th>
   </tr>
 </table>
-  <h1>2.týždeň</h1>
-  <p>realizácia zapojenia a program pre zobrazenie výstupných hodnôt jednotlivých modulov</p>
-  <h2>Rozdelenie úloh</h2>
-  <h2>Spojenie individualných modulov</h2>
-  <p>*Diagram kompletného zapojenia*</p>
+  
+
