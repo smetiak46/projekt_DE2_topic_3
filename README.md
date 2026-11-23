@@ -169,13 +169,12 @@ a zobrazovať namerané hodnoty na OLED displeji
 
 <h4> Akcelerometer </h4>
 
-<p> odkaz na kód pre modul akcelereometru </p>
-<a href="codes/MPU_acc.py">MPU_acc</a> 
+<p> odkaz na kód pre modul akcelereometru:  <a href="codes/MPU_acc.py">MPU_acc</a> </p>
 
 <h4> Gyroskop </h4>
 
-<p> odkaz na kód pre modul gyroskopu </p>
-<a href="codes/MPU_gyro.py">MPU_gyro</a> 
+<p> odkaz na kód pre modul gyroskopu: <a href="codes/MPU_gyro.py">MPU_gyro</a> </p>
+
 
 <h3> GPS modul NEO-6M </h3>
 <p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
