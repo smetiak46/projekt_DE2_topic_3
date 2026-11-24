@@ -177,25 +177,28 @@ a zobrazovať namerané hodnoty na OLED displeji
 
 
 <h3> GPS modul NEO-6M </h3>
-<p>*Diagram zapojenia pre zistenie meraných hodnôt/výstupné parametre*</p>
-<p>*Tabuľka pre zapojenie modulu na mikropočítač*</p>
+<p>Zapojení pro testování</p>
+<img src="fotky/Neo_test.png">
+<p>Tabulka zapojení GPS modulu na mikroprocesor</p>
 <table>
 <tr>
     <th>IN</th>
-    <th>3v3</th>
+    <th>3V3</th>
   </tr>
   <tr>
     <th>GND</th>
     <th>GND</th>
   </tr>
   <tr>
-    <th>OUT</th>
-    <th>SCL</th>
+    <th>IN</th>
+    <th>RX</th>
   </tr>
    <tr>
     <th>OUT</th>
-    <th>SDA</th>
+    <th>TX</th>
   </tr>
 </table>
+
+<p> odkaz na kód pro modul GPS: <a href="codes/GPS_test.py">NEO-6M_test</a></p>
   
 
