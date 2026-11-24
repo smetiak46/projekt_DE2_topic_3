@@ -26,7 +26,6 @@ class GPS():
             if len(data_split) < 7:
                 return None
 
-            # Check GPS fix
             if data_split[6] == "0":
                 return None
 
